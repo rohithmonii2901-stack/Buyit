@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fruits",
+        "price": 0.5
+    },
+    {
+        "id": 2,
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 1.2
+    },
+    {
+        "id": 3,
+        "name": "Bread",
+        "category": "Bakery",
+        "price": 1.0
+    },
+    {
+        "id": 4,
+        "name": "Eggs",
+        "category": "Dairy",
+        "price": 2.5
+    },
+    {
+        "id": 5,
+        "name": "Carrots",
+        "category": "Vegetables",
+        "price": 0.8
+    }
+]
